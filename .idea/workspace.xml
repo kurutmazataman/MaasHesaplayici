@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="7c2b5fe6-6acd-427e-a4b1-cacd9a6614bc" name="Changes" comment="README.md file updated">
       <changelist_data name="Ataman Kurutmaz" email="166033372+atamankurutmazzz@users.noreply.github.com" automatic="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Implements/BonusAndTax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Business/TotalSalaray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Implements/TotalSalaray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Entity/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,19 +54,6 @@
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="MaasHesaplayici" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="MaasHesaplayici" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
